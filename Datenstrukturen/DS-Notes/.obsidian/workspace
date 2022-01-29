@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "b005127b6c8f622a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e430142bb4fae89",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Segment-Tree.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e3765b6ae377f5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "84cec84e8ea3b1d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03ead25b1aa4263e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ac64b405aef9e17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299
+  },
+  "right": {
+    "id": "db3fc7f3ed615e0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c2667644a0c81ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0924ad4fd28706b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Segment-Tree.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4e430142bb4fae89",
+  "lastOpenFiles": [
+    "Segment-Tree.md",
+    "Range-Tree.md",
+    "img/range-tree/empty_rangetree_over_raster_1-8.png",
+    "1-dimenstionaler Range-Tree.md",
+    "1-dimensional-range-tree.svg.png",
+    "Intervall-Baum.md"
+  ]
+}
