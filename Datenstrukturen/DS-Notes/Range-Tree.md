@@ -8,8 +8,8 @@ Der leere Baum wird über ein Raster $X = \{x_1, ... , x_N\}$ konstruiert, danac
 - Knoten enthalten Bereiche (z.B. Zahlenbereiche)
 - Blätter enthalten Objektprimitive (z.B. einzelnen Zahlen)
 
-## Erzeugung eines Range-Tree aus einem gegebenen Raster
-Aus dem gegebenen Raster werden Blätter erzeugt, da es sich hierbei um einen vollständigen Binärbaum handelt werden bei ungeradem Raster entsprechend Leer-Blätter eingefügt.
+## Erzeugung eines Range-Tree aus einem gegebenen Raster ($X = \{x_1,...,x_N\}$)
+Aus dem gegebenen Raster werden Blätter erzeugt, da es sich hierbei um einen vollständigen Binärbaum handelt (dessen Blätter die Koordinaten / Elemente in X enthalten) werden bei ungeradem Raster entsprechend Leer-Blätter eingefügt.
 Bei einem vorgegebenen Raster 1-8, entsteht der folgende leere Range-Baum:
 
 ![[empty_rangetree_over_raster_1-8.png]]
@@ -29,3 +29,13 @@ Nun begibt man sich in die nächste Ebene und setzt die enthaltenen Elemente an 
 Um effizientes Entfernen zu unterstützen, ist die gleiche Technik wie beim [[Segment-Tree#Entfernen von Elementen]] einzusetzen.
 
 ## Ermittlung des Platzbedarfs
+Der Baum enthält $2N - 1$ Elemente und hat somit einen Platzbedarf von $O(N)$.
+Die Höhe beträgt $O(log(2N-1))$.
+
+Jede abgespeicherte Koordinate erzeugt $O(log~N)$ Einträge, daher benötigt der Range-Baum $O(N + n~log~N)$ Speicherplatz.
+
+Indem man beim Eintragen von Koordinaten nur die Teile des Baumes aufbaut, in die tatsächlich Koordinaten eingetragen werden, lässt sich der Platzbedarf auf $O(n~log~N)$ reduzieren ($n$ ist die Anzahl gespeicherter Koordinaten).
+
+## Update- & Suchzeit
+Die Update-Zeit ist $O(log~N)$.
+Die Suchzeit $O(log~N + t)$ (wobei $t$ die Anzahl gefundener Koordinaten angibt).
