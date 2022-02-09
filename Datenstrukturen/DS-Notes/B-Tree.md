@@ -6,7 +6,12 @@ Ein B-Baum der Ordnung *m* ist ein Vielweg-Suchbaum mit folgenden Eigenschaften:
 * Jeder innere Knoten mit *s* Schlüsseln hat genau *s+1* Kinder (das heißt, es gibt keine leeren Teilbäume).
 
 ## Einfügen und Löschen
-
+```ad-warning
+title: Achtung
+Die Reihenfolge ist so wie dargestellt anzuwenden.
+Bei einem Overflow ist ein Splitt anzuwenden und
+bei einem Underflow zunächst ein balance und anschließend (falls nötig) ein Merge.
+```
 ### overflow (s > 2m)
 #### splitt
 

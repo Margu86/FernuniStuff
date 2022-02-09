@@ -90,10 +90,11 @@
   "active": "4e430142bb4fae89",
   "lastOpenFiles": [
     "B-Tree.md",
+    "2-3 Tree.md",
+    "img/range-tree/filled_rangetree_over_raster_1-8.png",
     "Segment-Tree.md",
     "Range-Tree.md",
     "Programmanalyse.md",
-    "2-3 Tree.md",
     "img/range-tree/empty_rangetree_over_raster_1-8.png",
     "1-dimenstionaler Range-Tree.md",
     "1-dimensional-range-tree.svg.png",
