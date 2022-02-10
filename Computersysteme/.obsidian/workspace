@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "690b6f27e323c55f",
+    "type": "split",
+    "children": [
+      {
+        "id": "af7b46d9b778d302",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Computersysteme I/Schaltwerke/Automatenmodelle für Schaltwerke.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d5646681b115e7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4de5c72bbe210e99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd21ff957c8e4122",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "332f04768b8f81cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ac42f579d121e9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad010b264abb0e1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c8942637fe7f8f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computersysteme I/Schaltwerke/Automatenmodelle für Schaltwerke.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "af7b46d9b778d302",
+  "lastOpenFiles": [
+    "Computersysteme I/Schaltwerke/Automatenmodelle für Schaltwerke.md",
+    "Computersysteme I/Schaltwerke/Darstellungsformen.md",
+    "Computersysteme I/Schaltwerke/Zustandstabelle.md",
+    "Computersysteme I/Schaltwerke/Zustandsgraph.md",
+    "Computersysteme I/Komplexe Schaltwerke/ASM-Diagramme.md"
+  ]
+}
