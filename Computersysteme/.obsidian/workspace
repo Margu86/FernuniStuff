@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computersysteme I/Schaltwerke/Automatenmodelle für Schaltwerke.md",
+            "file": "Computersysteme I/Funktionstabelle.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computersysteme I/Schaltwerke/Automatenmodelle für Schaltwerke.md",
+                "file": "Computersysteme I/Funktionstabelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,15 @@
   },
   "active": "af7b46d9b778d302",
   "lastOpenFiles": [
-    "Computersysteme I/Schaltwerke/Automatenmodelle für Schaltwerke.md",
+    "Computersysteme I/Funktionstabelle.md",
+    "Computersysteme I/KV-Diagramm.md",
+    "Computersysteme I/Schaltfunktionen.md",
+    "Computersysteme I/Funktionsgleichung.md",
+    "Computersysteme I/Schaltnetz.md",
+    "Computersysteme I/Schaltwerke/Zustands-Minimierung.md",
     "Computersysteme I/Schaltwerke/Darstellungsformen.md",
+    "Computersysteme I/Schaltwerke/Automatenmodelle für Schaltwerke.md",
     "Computersysteme I/Schaltwerke/Zustandstabelle.md",
-    "Computersysteme I/Schaltwerke/Zustandsgraph.md",
-    "Computersysteme I/Komplexe Schaltwerke/ASM-Diagramme.md"
+    "Computersysteme I/Schaltwerke/Zustandsgraph.md"
   ]
 }
