@@ -43,13 +43,22 @@ Ein Automat heißt *vollständig*, wenn für jeden Zustand und alle möglichen E
 #### Wiederspruchsfei
 Ein Automat heißt *wiederspruchsfrei*, wenn führ jeden Zustand und alle möglichen Eingaben jeweils ein eindeutiger Folgezustand bestimmt ist, d.h. wenn $g$ tatsächlich eine Funktion ist[¹]. Für den Zustandsgraphen bedeutet dies, dass es für jede mögliche Eingabe nur eine einzige auslaufende Kante aus einem Knoten (Zustand) gibt.
 
+![[Pasted image 20220211181652.png]]
 
+Die Abbildung Zeit ein synchrones Schaltwerk nach den beiden beschriebenen Automatenmodellen.
+Um eine korrekte Arbeitsweise des Schaltwerks zu gewährleisten, muss der Folgezustand $Z^{t+1}$ stets durch nicht-transparente Speicherglieder (z.B. Register mit Master-Slave-Flipflops) vom aktuellen Zustand $Z¹$ entkoppelt sein. Dies wird durch verschieden schraffierte Bereiche des Registers angedeutet.
+```ad-info
+Wenn die gestricjelte Verbindung weggelassen wird, erhalten wir ein Moore-Schaltwerk.
+```
 
 ## Moore-Automat
 ```ad-info
 Ein [[#Moore-Automat]] ist etwas **langsamer** als ein [[#Mealy-Automat]].
 ```
-
+1) Der Ausgangsvektor ist eindeutig vom aktuellen Zustand (Knoten) bestimmt.
+2) Es gibt keine bedingten Ausgangsboxen ([[ASM-Diagramme]])
+3) [[ASM-Diagramme]] enthalten jedoch in der Regel mehr Zustandsboxen als jene für [[#Mealy-Automat]]
+4) 
 
 ## Mealy-Automat
 
