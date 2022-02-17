@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computersysteme II/Mikroarchitektur/Bit-Banding.md",
+            "file": "Computersysteme I/Arithmetik-Logik Einheit (ALU).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computersysteme II/Mikroarchitektur/Bit-Banding.md",
+                "file": "Computersysteme I/Arithmetik-Logik Einheit (ALU).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "af7b46d9b778d302",
   "lastOpenFiles": [
+    "Computersysteme I/Arithmetik-Logik Einheit (ALU).md",
+    "Computersysteme I/Schaltnetz.md",
+    "Computersysteme I/Schaltwerke/Darstellungsformen.md",
     "Computersysteme II/Mikroarchitektur/Bit-Banding.md",
     "Computersysteme II/Grundlegende Befehlssatz- und Mikroarchitektur.md",
     "Computersysteme I/Funktionstabelle.md",
     "Computersysteme I/KV-Diagramm.md",
     "Computersysteme I/Schaltfunktionen.md",
     "Computersysteme I/Funktionsgleichung.md",
-    "Computersysteme I/Schaltnetz.md",
-    "Computersysteme I/Schaltwerke/Zustands-Minimierung.md",
-    "Computersysteme I/Schaltwerke/Darstellungsformen.md",
-    "Computersysteme I/Schaltwerke/Automatenmodelle für Schaltwerke.md"
+    "Computersysteme I/Schaltwerke/Zustands-Minimierung.md"
   ]
 }
