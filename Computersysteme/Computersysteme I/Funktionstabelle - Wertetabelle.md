@@ -1,4 +1,4 @@
-# Funktionstabelle
+# Funktionstabelle / Wertetabelle
 ```ad-info
 Die Eingangsvariablen ordnen wir in der Tabelle absteigend an, um sie (z.B. für das Quine McClusky Verfahren) direkt als Binärzahl lesen zu können (und damit recht einfach in eine Dualzahl umwandeln können).
 
