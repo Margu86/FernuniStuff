@@ -1,4 +1,4 @@
-# Range Tree (Range Baum oder Bereichs Baum)
+ # Range Tree (Range Baum oder Bereichs Baum)
 
 Der Range-Baum ist ähnlich wie der [Segment-Tree](Segment-Tree.md) eine semidynamische Datenstruktur; er erlaubt die Darstellung einer Menge von Koordinaten.
 
