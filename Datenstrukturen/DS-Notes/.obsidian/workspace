@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algebra.md",
+            "file": "Heapsort.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra.md",
+                "file": "Heapsort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "4e430142bb4fae89",
   "lastOpenFiles": [
+    "Heapsort.md",
     "Algebra.md",
     "Segment-Tree.md",
     "Range-Tree.md",
@@ -97,7 +98,6 @@
     "B-Tree.md",
     "2-3 Tree.md",
     "img/range-tree/filled_rangetree_over_raster_1-8.png",
-    "img/range-tree/empty_rangetree_over_raster_1-8.png",
-    "1-dimenstionaler Range-Tree.md"
+    "img/range-tree/empty_rangetree_over_raster_1-8.png"
   ]
 }
