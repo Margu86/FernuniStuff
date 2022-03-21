@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computersysteme I/Quine-McCluskey.md",
+            "file": "Computersysteme I/Komplexe Schaltwerke/ASM-Diagramme.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computersysteme I/Quine-McCluskey.md",
+                "file": "Computersysteme I/Komplexe Schaltwerke/ASM-Diagramme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "af7b46d9b778d302",
   "lastOpenFiles": [
-    "Computersysteme I/Quine-McCluskey.md",
-    "Computersysteme I/KV-Diagramm.md",
-    "Computersysteme I/Schaltalgebra.md",
-    "Computersysteme I/Schaltfunktionen.md",
-    "Computersysteme I/Schaltzeichen.md",
-    "Computersysteme I/Grundverknüfungen.md",
-    "Computersysteme I/Gesetze der Booleschen Algebra.md",
+    "Computersysteme I/Komplexe Schaltwerke/ASM-Diagramme.md",
+    "Computersysteme I/Schaltwerke/Automatenmodelle für Schaltwerke.md",
     "Computersysteme I/Schaltwerke/Darstellungsformen.md",
     "Computersysteme I/Schaltwerke/Zustands-Minimierung.md",
-    "Computersysteme I/Funktionsgleichung.md"
+    "Computersysteme I/Grundverknüfungen.md",
+    "Computersysteme I/Gesetze der Booleschen Algebra.md",
+    "Computersysteme I/Funktionstabelle - Wertetabelle.md",
+    "Computersysteme I/Funktionsgleichung.md",
+    "Computersysteme I/Quine-McCluskey.md",
+    "Computersysteme I/KV-Diagramm.md"
   ]
 }
