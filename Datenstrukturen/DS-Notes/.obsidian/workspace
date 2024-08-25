@@ -7,11 +7,9 @@
         "id": "4e430142bb4fae89",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Algebra.md",
-            "mode": "source",
-            "source": false
+            "file": "img/range-tree/filled_rangetree_over_raster_1-8.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra.md",
+                "file": "img/range-tree/filled_rangetree_over_raster_1-8.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +87,15 @@
   },
   "active": "4e430142bb4fae89",
   "lastOpenFiles": [
-    "Algebra.md",
+    "img/range-tree/filled_rangetree_over_raster_1-8.png",
     "2-3 Tree.md",
-    "B-Tree.md",
+    "img/range-tree/empty_rangetree_over_raster_1-8.png",
     "Sweep-Line.md",
-    "Segment-Tree.md",
     "Range-Tree.md",
+    "Segment-Tree.md",
+    "B-Tree.md",
+    "Algebra.md",
     "Programmanalyse.md",
-    "Heapsort.md",
-    "Hashing.md",
-    "img/range-tree/filled_rangetree_over_raster_1-8.png"
+    "Heapsort.md"
   ]
 }
